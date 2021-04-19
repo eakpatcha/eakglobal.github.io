@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title> GLOBAL Login & Sign Up</title>
+    <link href="style.css" rel="stylesheet" type="text/css" /> 
+    <h1>GLOBAL</h1>
+  </head>
+  <body>
+    <script src="script.js"></script> 
+  </body>
+</html> 
+<html>
+<head>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+
+/* Modal Content */
+.modal-content {
+  background-color: rgba(128,28,85);
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; 
+  padding-left: 3in ; 
+  padding-right: 3in;
+}  
+
+
+
+}
+</style>
+</head> 
+<body>
+
+
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+   
+    <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" >
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* style the container */
+.container {
+  position: center;
+  border-radius: 5px; 
+  padding-left: 1in;
+  background-color: #f2f2f2;
+  padding: 100px 20px 100px 20px;
+} 
+
+/* style inputs */
+input,
+.btn {
+  width: 100%;
+  padding: 12px; 
+  
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+
+/* style the submit button */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  width:90px ;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049; 
+
+}
+
+.col {
+  float: center;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+/* hide some text on medium and large screens */
+.hide-md-lg {
+  display: none;
+}
+
+
+/* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 650px) {
+  .col {
+    width: 90px;
+    margin-top: 0; 
+    padding-left: 3in ;
+  padding-right: 3in ;
+  }
+ 
+  /* show the hidden text on small screens */
+  .hide-md-lg {
+    display: block;
+    text-align: center; 
+
+  }
+}
+</style>
+</head> 
+
+<body>
+
+
+
+   <div class="container">  
+     <h2>Login & Join The Group</h2> 
+        <label for='uname'<b>Username</b></label>
+           <input type="text" placeholder="Enter Username" name="uname" required>
+         <label for='psw'<b>Password</b></label>
+        <input type="text"  placeholder=" Enter Password" name="psw" required>
+
+<div class="p3"> 
+  <html> 
+    <head>
+      <meta https-equiv="refresh" 
+      content="3; 
+url='https://c0hbv588.caspio.com/dp/c49c90000b941b4d76764dc1a2ec' "/> 
+    </head> 
+    <body> 
+     <a href="https://c0hbv588.caspio.com/dp/c49c90000b941b4d76764dc1a2ec"> Forgot Password?</a></p>
+      </body> 
+      </html>
+      
+      
+      <style>  
+      p3{
+      padding-left: 3.05in; 
+      font-size: 10px;
+     
+      }
+      </style>
+    </div>
+    
+        <html> 
+    <head>
+      <meta https-equiv="refresh" 
+      content="3; 
+url='https://c0hbv588.caspio.com/dp/c49c90000b941b4d76764dc1a2ec' "/> 
+    </head> 
+    <body> 
+     <a href="https://c0hbv588.caspio.com/dp/c49c90000b941b4d76764dc1a2ec"> New User? Create Your GLOBAL Account</a></p>
+      </body> 
+      </html>
+      
+        <style> 
+        h3{ 
+          color:blueviolet ; 
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+          font-size: 20px ;
+        }
+        </style>
+      </div>
+
+  </form>
+</div> 
+
+
+
+    </div>
+   
+    
+ 
+
+</body>
+</html>
+
+  </div>
+
+</div>
+
+
+</body>
+</html>
+
+  
+      
+    </div>
+  </form>
+</div>
+
+
+    
+  </div>
+</div>
+
+</body>
+</html>
